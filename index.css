@@ -1,0 +1,38 @@
+body {
+  color: white;
+  background-color: black;
+  font-family: cursive;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  align-items: center;
+  padding: 16px;
+
+  text-align: center;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+header img {
+  width: 300px;
+  height: 300px;
+}
+
+.center {
+  text-align: center;
+}
+
+.container {
+  padding: 0px 50px;
+}
